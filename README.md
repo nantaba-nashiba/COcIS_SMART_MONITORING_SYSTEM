@@ -1,0 +1,2 @@
+# COcIS_SMART_MONITORING_SYSTEM
+Embedded systems
